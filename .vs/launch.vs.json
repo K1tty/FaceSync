@@ -1,0 +1,17 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "python",
+      "interpreter": "(default)",
+      "interpreterArguments": "",
+      "scriptArguments": "olegok BlackwoodAcc0unt olegok",
+      "env": {},
+      "nativeDebug": false,
+      "webBrowserUrl": "",
+      "project": "sync.py",
+      "name": "FaceSync"
+    }
+  ]
+}
